@@ -12,7 +12,6 @@ body {
   font-size: larger;
 }
 
-
 #particles-js {
   position: fixed;
   top: 0;
@@ -289,7 +288,6 @@ footer a:hover {
   .nav-buttons-mobile {
     width: 90%;
     transform: translateX(0);
-  
   }
   .hidden-nav {
     transform: translateX(100vw);
@@ -301,13 +299,9 @@ footer a:hover {
     font-size: 0.7rem;
   }
 }
-
-
-
 #particles-js {
   will-change: transform;
 }
-
 .neon {
   font-size: 3rem;
   cursor: pointer;
